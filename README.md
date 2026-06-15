@@ -1,0 +1,1 @@
+# kraken-staking-bot
